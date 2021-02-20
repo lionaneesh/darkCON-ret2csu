@@ -1,6 +1,7 @@
 # darkCON ret2csu talk
 
 1. [slides](https://slides.com/aneeshdogra-1/ret2csu)
+2. [talk video](https://www.youtube.com/watch?v=yHQkuGOrau4)
 
 # Sample problem
 
